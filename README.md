@@ -276,6 +276,6 @@ src/
 
 <div align="center">
   <p><strong>Built with ❤️ for global mental wellness</strong></p>
-  <p>Made for AlgoArena Hackathon 2025</p>
+  <p>Follow MindFul Movement</p>
   <p><em>Together, we're building a healthier digital world</em></p>
 </div>
