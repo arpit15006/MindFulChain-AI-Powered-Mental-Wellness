@@ -257,7 +257,6 @@ src/
 - **Blockchain Development** - Smart contracts, Web3 integration
 - **UI/UX Design** - Accessibility, user experience improvements
 - **Mental Health Content** - Assessment questions, wellness tips
-- **Testing** - Unit tests, integration tests, user testing
 
 ## 🙏 Acknowledgments
 
@@ -269,8 +268,9 @@ src/
 ## 📞 Support & Contact
 
 - **Website**: [MindfulChain](https://mind-ful-chain-ai.vercel.app/)
-- **Email**: arpi6814@gmail.com
+- **Email**: arpit6814@gmail.com
 - **GitHub**: [Report issues and contribute](https://github.com/arpit15006/MindFulChain-AI-Powered-Mental-Wellness.git)
+- **Demo Video**:[Youtube Link](https://youtu.be/QqCsywVruaI)
 
 ---
 
