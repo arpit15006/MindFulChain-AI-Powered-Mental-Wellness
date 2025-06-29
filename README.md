@@ -3,7 +3,7 @@
 
 > Transform your mental wellness journey with AI-powered insights, gamified assessments, and blockchain-verified achievements.
 
-![MindfulChain](https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?w=1200&h=400&fit=crop&crop=center)
+![MindfulChain](/public/logo.png)
 
 ## ✨ Features
 
@@ -93,7 +93,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone <YOUR_GIT_URL>
+git clone https://github.com/arpit15006/MindFulChain-AI-Powered-Mental-Wellness.git
 cd mindfulchain
 ```
 
@@ -205,7 +205,7 @@ src/
 - **Blockchain Verification** - Tamper-proof achievement records
 - **No Personal Data Collection** - Privacy-first approach
 
-### Smart Contract Security
+### Smart Contract Security- A unique feature 
 - **Audited Contracts** - ERC-20 and ERC-1155 standard compliance
 - **Testnet Deployment** - Safe testing environment
 - **Minimal Permissions** - Limited contract interactions
@@ -251,17 +251,6 @@ src/
 - 📋 Global scaling and localization
 - 📋 Enterprise wellness programs
 
-## 🤝 Contributing
-
-We welcome contributions from developers, designers, and mental health professionals!
-
-### Development Workflow
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open Pull Request
-
 ### Areas for Contribution
 - **Frontend Development** - React, TypeScript, Tailwind CSS
 - **AI Integration** - Prompt optimization, model fine-tuning
@@ -284,11 +273,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Contact
 
-- **Website**: [mindfulchain.dev](https://mindfulchain.dev)
-- **Email**: support@mindfulchain.dev
-- **Discord**: [Join our community](https://discord.gg/mindfulchain)
-- **Twitter**: [@MindfulChain](https://twitter.com/mindfulchain)
-- **GitHub**: [Report issues and contribute](https://github.com/mindfulchain/platform)
+- **Website**: [MindfulChain](https://mind-ful-chain-ai.vercel.app/)
+- **Email**: arpi6814@gmail.com
+- **GitHub**: [Report issues and contribute](https://github.com/arpit15006/MindFulChain-AI-Powered-Mental-Wellness.git)
 
 ---
 
