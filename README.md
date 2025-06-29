@@ -259,10 +259,6 @@ src/
 - **Mental Health Content** - Assessment questions, wellness tips
 - **Testing** - Unit tests, integration tests, user testing
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Google Gemini** for advanced AI capabilities and natural language understanding
