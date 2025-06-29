@@ -265,7 +265,6 @@ src/
 - **Base Protocol** for scalable blockchain infrastructure and developer tools
 - **Mental Health Organizations** worldwide for research and inspiration
 - **Open Source Community** for amazing tools, libraries, and frameworks
-- **Contributors** who help improve mental wellness accessibility
 
 ## 📞 Support & Contact
 
